@@ -1,4 +1,4 @@
-# Whatimupto
+# Now
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c0c7239a-17f4-42a5-886c-0e17924712e1/deploy-status)](https://app.netlify.com/sites/admiring-noyce-84c88a/deploys)
 > Light and Standalone open source linktree with a git based backend
