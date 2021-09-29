@@ -5,8 +5,6 @@
 
 ## Example
 
-https://whatimupto.saxjst.com
-
 <div align="center">
 <a href="https://whatimupto.saxjst.com">
 	<img src="homepage-whatimupto.png" width="200" title="homepage">
@@ -28,4 +26,4 @@ https://whatimupto.saxjst.com
 
 ## License
 
-MIT © [saxjst](https://saxjst.com)
+MIT © [muceres](https://forgetheweb.eu)
